@@ -16,7 +16,9 @@ public:
         return lucky_number;
     }
 };
+  
 
+  
 /*
 Dry Run
 Initialization:
